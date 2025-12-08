@@ -14,9 +14,8 @@
 
 ### 🚀 Resumo
 - 🎓 **Curso:** Engenharia de Software (4º Semestre).
-- 💼 **Objetivo:** Minha primeira oportunidade na área de TI (Estágio/Júnior).
+- 💼 **Objetivo:** oportunidade na área de TI (Estágio/Júnior).
 - 🛠️ **Perfil:** Generalista (Versátil em Backend, Frontend e Banco de Dados).
-- 🧠 **Interesses:** Java, Python, Web e resolução de problemas.
 
 ---
 
@@ -48,10 +47,3 @@
   <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
----
-
-### 📊 Linguagens Mais Usadas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jntgirardi&layout=compact&theme=tokyonight&langs_count=8"/>
-</div>
