@@ -47,3 +47,10 @@
   <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
+---
+
+### 📊 Linguagens Mais Usadas
+
+<div align="center">
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jntgirardi&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"/>
+</div>
