@@ -2,7 +2,7 @@
 <h3 align="center">Engenharia de Software (4º Semestre) | Desenvolvedor</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonathasgirardi-010b413b5G" target="_blank">
+  <a href="www.linkedin.com/in/jonathasgirardi-jr" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:jonathasgirard@gmail.com">
