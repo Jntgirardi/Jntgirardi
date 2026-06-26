@@ -1,5 +1,5 @@
 <h1 align="center">Jonathas Girardi</h1>
-<h3 align="center">Engenharia de Software (4º Semestre) | Desenvolvedor</h3>
+<h3 align="center">Engenharia de Software (5º Semestre) | Desenvolvedor</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathasgirardi-jr" target="_blank">
@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Resumo
-- 🎓 **Curso:** Engenharia de Software (4º Semestre).
+- 🎓 **Curso:** Engenharia de Software (5º Semestre).
 - 💼 **Objetivo:** Oportunidade na área de TI (Estágio/Júnior).
 
 ---
