@@ -31,11 +31,11 @@
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
 <div align="center">
-  <!-- Linha 1: Delphi (Logo Oficial) + Python + JS + Postgres + MySQL -->
+  <!-- Linha 1: Delphi + Python + JS + Postgres + MySQL -->
   <a href="https://www.embarcadero.com/products/delphi" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg" alt="Delphi" width="48" height="48" style="vertical-align: top; margin-right: 6px;" /></a><img src="https://skillicons.dev/icons?i=python,js,postgres,mysql&theme=dark" style="vertical-align: top;" />
   <br/><br/>
-  <!-- Linha 2: Docker + Linux + Git + GitHub + Postman -->
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman&theme=dark" />
+  <!-- Linha 2: Docker + Linux + Git + FastAPI + React -->
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,fastapi,react&theme=dark" />
 </div>
 
 <br/>
