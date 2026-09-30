@@ -34,8 +34,8 @@
   <!-- Linha 1: Delphi + Python + JS + Postgres + MySQL -->
   <a href="https://www.embarcadero.com/products/delphi" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg" alt="Delphi" width="48" height="48" style="vertical-align: top; margin-right: 6px;" /></a><img src="https://skillicons.dev/icons?i=python,js,postgres,mysql&theme=dark" style="vertical-align: top;" />
   <br/><br/>
-  <!-- Linha 2: Docker + Linux + Git + FastAPI + React -->
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,fastapi,react&theme=dark" />
+  <!-- Linha 2: Docker + Linux + Git + FastAPI + React + n8n -->
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,fastapi,react&theme=dark" style="vertical-align: top;" /><a href="https://n8n.io" target="_blank"><img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="48" height="48" style="vertical-align: top; margin-left: 6px;" /></a>
 </div>
 
 <br/>
